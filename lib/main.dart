@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
           title: Text("Latihan Row dan Column"),
         ),
         body: Column(
-          children: <Widget>[Text("Text 1")],
+          children: <Widget>[Text("button")],
         ),
       ),
     );
